@@ -25,6 +25,10 @@ div {
   background-color: green;
 }
 
+.fuchsia {
+  background-color: fuchsia;
+}
+
 .invisible {
   display: none;
 }
